@@ -14,8 +14,8 @@ WebView
 
 Layer-List
 
-## Principle:-
-Single Activity Principle( Created Splash Screen without any other  Activity/Fragment)
+## Pattern I Followed:-
+Single Activity Architecture Pattern ( Created Splash Screen without any other  Activity/Fragment)
 
 
 
